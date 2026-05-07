@@ -2,8 +2,9 @@
 
 ### Malware Research • Reverse Engineering • Threat Hunting • Detection Engineering
 
-I’m a cybersecurity researcher focused on Windows internals and Malware Analysis.
-My work primarily revolves around reverse engineering malware, kernel-mode behavior analysis, detection bypass techniques, and low-level Windows research.
+I’m a cybersecurity researcher focused on Windows internals and malware analysis.
+
+My work primarily revolves around reverse engineering malware, kernel-mode behavior analysis, detection rule development, and low-level Windows research.
 
 ---
 
@@ -12,7 +13,6 @@ My work primarily revolves around reverse engineering malware, kernel-mode behav
 - Malware Analysis
 - Reverse Engineering
 - Windows Internals
-- Kernel-mode Research
 - Detection Engineering
 - EDR/AV Evasion
 - Threat Hunting
@@ -23,16 +23,22 @@ My work primarily revolves around reverse engineering malware, kernel-mode behav
 ## Research & Publications
 
 - Technical deep-dives on [Medium](https://medium.com/@tarunrd77)
-- Featured in cybersecurity-related news articles
+- Featured in multiple cybersecurity-related news articles
 - Invited speaker at security conferences and community events
-- Active in hands-on malware and detection research
+- Active in hands-on malware analysis and detection research
+
+---
+
+## Technical Stack
+
+`C` • `C++` • `Python` • `x86/x64 Assembly` • `WinDbg` • `Ghidra` • `WinAPI`
 
 ---
 
 ## Current Focus
 
 - Kernel-mode detection research
-- EDR telemetry & bypass techniques
+- EDR telemetry and bypass techniques
 - Malware behavior analysis
 - Detection engineering projects
 - Offensive security tooling
