@@ -1,8 +1,6 @@
-# Hi, I'm Tarun (RDT)
-
 ### Malware Research • Reverse Engineering • Threat Hunting • Detection Engineering
 
-I’m a cybersecurity researcher focused on Windows internals and malware analysis.
+Cybersecurity researcher focused on Windows internals and malware analysis.
 
 My work primarily revolves around reverse engineering malware, kernel-mode behavior analysis, detection rule development, and low-level Windows research.
 
