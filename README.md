@@ -1,4 +1,4 @@
-### Malware Research • Reverse Engineering • Threat Hunting • Detection Engineering
+## Malware Research // Reverse Engineering // Threat Hunting // Detection Engineering
 
 Cybersecurity researcher focused on Windows internals and malware analysis.
 
