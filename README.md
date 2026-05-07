@@ -31,7 +31,7 @@ My work primarily revolves around reverse engineering malware, kernel-mode behav
 
 ## Technical Stack
 
-`C` • `C++` • `Python` • `x86/x64 Assembly` • `WinDbg` • `Ghidra` • `WinAPI`
+`C` • `C++` • `Python` • `.NET` • `Powershell` • `x86/x64 Assembly` • `Ghidra` • `x64dbg` 
 
 ---
 
