@@ -4,7 +4,7 @@ Cybersecurity researcher focused on Malware Analysis, Reverse Engineering, and D
 
 My work primarily revolves around reverse engineering malware, detection rule development, and low-level Windows research.
 
-Invited speaker at reputed cybersecurity conferences and community events including OWASP, DEFCON Coimbatore, bi0s Bengaluru, and BSides Kochi. Also featured in multiple news articles for breakthroughs in research contributions and technical work.
+Invited speaker at reputed cybersecurity conferences and community events including OWASP, DEFCON Coimbatore, and bi0s Bengaluru. Also featured in multiple news articles for breakthroughs in research contributions and technical work.
 
 I actively work on hands-on malware analysis, threat hunting, reverse engineering, and detection research.
 
