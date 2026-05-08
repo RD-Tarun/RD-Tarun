@@ -10,4 +10,6 @@ I actively work on hands-on malware analysis, threat hunting, reverse engineerin
 
 View my research, technical deep-dives, and writeups on [Medium](https://medium.com/@tarunrd77).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rd-tarun/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/rd-tarun/).
+
+Hope you have a great day!
