@@ -1,58 +1,13 @@
 ## Malware Research // Reverse Engineering // Threat Hunting // Detection Engineering
 
-Cybersecurity researcher focused on Windows internals and malware analysis.
+Cybersecurity researcher focused on Malware Analysis, Reverse Engineering, and Detection Engineering. 
 
-My work primarily revolves around reverse engineering malware, kernel-mode behavior analysis, detection rule development, and low-level Windows research.
+My work primarily revolves around reverse engineering malware, detection rule development, and low-level Windows research.
 
----
+Invited speaker at reputed cybersecurity conferences and community events including OWASP,DEFCON Coimbatore, bi0s Bengaluru, BSides Kochi. Also featured in multiple cybersecurity-related news articles for research contributions and technical work.
 
-## Areas of Interest
+I actively work on hands-on malware analysis, threat hunting, reverse engineering, and detection research, while publishing technical deep-dives and writeups on [Medium](https://medium.com/@tarunrd77).
 
-- Malware Analysis
-- Reverse Engineering
-- Windows Internals
-- Detection Engineering
-- EDR/AV Evasion
-- Threat Hunting
-- Defensive Security Research
-
----
-
-## Research & Publications
-
-- Technical deep-dives on [Medium](https://medium.com/@tarunrd77)
-- Featured in multiple cybersecurity-related news articles
-- Invited speaker at security conferences and community events
-- Active in hands-on malware analysis and detection research
-
----
-
-## Technical Stack
-
-`C` • `C++` • `Python` • `.NET` • `Powershell` • `x86/x64 Assembly` • `Ghidra` • `x64dbg` 
-
----
-
-## Current Focus
-
-- Kernel-mode detection research
-- EDR telemetry and bypass techniques
-- Malware behavior analysis
-- Detection engineering projects
-- Offensive security tooling
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RD-Tarun&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RD-Tarun&layout=compact&theme=tokyonight)
-
----
-
-## Contact
-
-- Email: `tarunrd77@gmail.com`
-- LinkedIn: [linkedin.com/in/rd-tarun](https://www.linkedin.com/in/rd-tarun/)
-- Medium: [medium.com/@tarunrd77](https://medium.com/@tarunrd77)
+Email: `tarunrd77@gmail.com`  
+LinkedIn: [linkedin.com/in/rd-tarun](https://www.linkedin.com/in/rd-tarun/)  
+Medium: [medium.com/@tarunrd77](https://medium.com/@tarunrd77)
