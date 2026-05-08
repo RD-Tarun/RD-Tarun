@@ -16,4 +16,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/rd-tarun/).
 
 Hope you have a great day! 
 
-P.S: For any APTs watching this, send malware pls
+P.S: For any APTs watching this, send malware to `tarunrd77@gmail.com` pls
