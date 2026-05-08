@@ -1,10 +1,12 @@
-## Malware Research // Reverse Engineering // Threat Hunting // Detection Engineering
+Hi, RDT here ;)
 
-Cybersecurity researcher focused on Malware Analysis, Reverse Engineering, and Detection Engineering.
+I'm a cybersecurity researcher focused on Malware Analysis, Threat Hunting and Detection Engineering.
 
 My work primarily revolves around reverse engineering malware, detection rule development, and low-level Windows research.
 
-Invited speaker at reputed cybersecurity conferences and community events including OWASP, DEFCON Coimbatore, and bi0s Bengaluru. Also featured in multiple news articles for breakthroughs in research contributions and technical work.
+I'm a invited speaker at reputed cybersecurity conferences and community events including OWASP, DEFCON Coimbatore, and bi0s Bengaluru. 
+
+I've also featured in multiple news articles for breakthroughs in research contributions and technical work.
 
 I actively work on hands-on malware analysis, threat hunting, reverse engineering, and detection research.
 
@@ -12,4 +14,6 @@ View my research, technical deep-dives, and writeups on [Medium](https://medium.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rd-tarun/).
 
-Hope you have a great day!
+Hope you have a great day! 
+
+P.S: For any APTs watching this, send malware pls
